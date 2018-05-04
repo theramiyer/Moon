@@ -16,7 +16,7 @@ layout: compress
         <div class="container animated fadeIn">
             <div class="row">
                     <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                        <img src="{% if site.gravatar %}//www.gravatar.com/avatar/{{ site.gravatar }}?size=200{% else %}{{ site.url }}/{{ site.logo }}{% endif %}" class="img-circle zoombtn animated fadeIn">
                     </a>
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
@@ -36,7 +36,7 @@ layout: compress
                          About
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
-                         Posts
+                         Stories
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
                          Projects
