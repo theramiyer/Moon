@@ -1,0 +1,8 @@
+---
+title: Meraki Post
+description: "All about books, book reviews, adaptations to movies, book hauls, authors and a lot more about books."
+cover: "//www.merakipost.com/assets/images/cover1.jpg"
+visit: "//www.merakipost.com"
+---
+
+Meraki Post started off as _A Cup of Coffee and a Fairytale_, a book blog where one of my friends used to post reviews of the books she read. A few years later, the site saw a serious transformation, and became a community of book lovers with enterprise-class IT infrastructure as its back-end, and a lively team of four as its front-end.
