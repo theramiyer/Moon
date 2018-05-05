@@ -76,5 +76,12 @@ gems:
 jekyll-mentions:
     base_url: https://github.com
 
+# Collections
+collections:
+  blogs:
+    output: true
+  books:
+    output: true
+
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
