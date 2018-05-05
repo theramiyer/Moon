@@ -1,7 +1,7 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Books
+excerpt: "A List of Books"
 comments: false
 permalink: /books/
 ---
