@@ -13,7 +13,7 @@ layout: compress
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
+        <div class="container">
             <div class="row">
                 <a href="/">
                     <img src="{% if site.gravatar %}//www.gravatar.com/avatar/{{ site.gravatar }}?size=200{% else %}/{{ site.logo }}{% endif %}" class="img-circle zoombtn animated">
@@ -32,7 +32,7 @@ layout: compress
                 {% include social-links.html %}
                 <hr class="hr-line">
                 <h3 class="title">
-                    <a class="btn zoombtn" href="http://resume.ramiyer.me">Résumé</a>
+                    <a class="btn zoombtn" href="http://resume.ramiyer.me" target="_blank">Résumé</a>
                     <a class="btn zoombtn" href="/blogs">Blogs</a>
                     <a class="btn zoombtn" href="/posts">Stories</a>
                     <a class="btn zoombtn" href="/projects">Books</a>
