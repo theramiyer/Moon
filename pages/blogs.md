@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ram’s Blogs
+title: Blogs
 comments: false
 permalink: /blogs/
 ---
