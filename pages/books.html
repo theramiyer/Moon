@@ -6,4 +6,15 @@ comments: false
 permalink: /books/
 ---
 
-Thank you for visiting! This page is still a work in progress. You should see at least one entry here, shortly.
+{% for item in site.books %}
+<div class="card">
+  <a href="{{ item.visit }}" target="_blank">
+    <img src="{{ item.cover }}" alt="Cover: {{ item.title }}">
+    <div class="card-container">
+      <h3>{{ item.title }}</h3>
+      <h4><em>{{ item.description }}</em></h4>
+      {{ item.content }}
+    </div>
+  </a>
+</div>
+{% endfor %}
