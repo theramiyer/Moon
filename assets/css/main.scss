@@ -25,3 +25,9 @@ sitemap: false
 @import "vendor/animate";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.page-excerpt {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.1rem;
+}
