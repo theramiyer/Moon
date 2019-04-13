@@ -1,7 +1,6 @@
 ---
 title: Meraki Post
 description: "All about books, book reviews, adaptations to movies, book hauls, authors and a lot more about books."
-cover: "//www.merakipost.com/assets/images/cover1.jpg"
 visit: "//www.merakipost.com"
 ---
 

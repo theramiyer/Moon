@@ -1,7 +1,6 @@
 ---
 title: Ram’s Blog
 description: "Raw thoughts of a humanist."
-cover: "//blog.ramiyer.me/assets/images/cover1.jpg"
 visit: "//blog.ramiyer.me"
 ---
 
