@@ -5,7 +5,8 @@ comments: false
 permalink: /blogs/
 ---
 
-{% for item in site.blogs %}
+{% assign blogitems = site.blogs | sort: 'sequence' %}
+{% for item in blogitems %}
 <div class="card">
   <a href="{{ item.visit }}" target="_blank">
     <div class="card-container">
