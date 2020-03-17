@@ -61,9 +61,10 @@ youtube:            ramiyer
 #weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
+keybase:            ramiyer
 #xmpp:              username@server.com
 #hackernews:        username
+anchor:             ramiyer
 gravatar:           e4a66264af2731abb223100c0b7dd481
 
 # Gems
