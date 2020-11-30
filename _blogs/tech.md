@@ -1,7 +1,7 @@
 ---
 title: PowerShell Pro
 description: "Everything Windows from DOS to PowerShell to Azure Cloud."
-visit: "//pwsh.pro"
+visit: "//ramiyer.io"
 sequence: 1
 ---
 
