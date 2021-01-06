@@ -1,6 +1,6 @@
 ---
 title: The Damp Roman Candle
 description: A work of fiction
-cover: 
+cover: "http://blogfiles.ramiyer.me/2018/the-damp-roman-candle.jpg"
 visit: //amzn.to/2SoXcN6
 ---
