@@ -27,4 +27,5 @@
                         {% if site.anchor %}<a class="social-btn" rel="noopener noreferrer" onclick="DetectAndServe();"><i class="fas fa-podcast"></i></a>{% endif %}
                         {% if site.patreon %}<a class="social-btn" href="https://patreon.com/{{ site.patreon }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-patreon"></i></a>{% endif %}
                         {% if site.keybase %}<a class="social-btn" href="https://keybase.io/{{ site.keybase }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-keybase"></i></a>{% endif %}
+                        {% if site.mastodon-server and site.mastodon %}<a class="social-btn" href="https://{{ site.mastodon-server }}/@{{ site.mastodon }}" rel="me"><i class="fab fa-mastodon"></i></a>{% endif %}
                   </h3>

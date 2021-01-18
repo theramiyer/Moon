@@ -63,7 +63,7 @@ youtube:            ramiyer
 #flickr:            username
 #codepen:           username
 keybase:            ramiyer
-telegram:           iamramiyer
+#telegram:          iamramiyer
 #xmpp:              username@server.com
 #hackernews:        username
 anchor:             ramiyer
@@ -73,6 +73,8 @@ spotify:            2sG6H3jKZaB8DMQdHLAmuR
 amazon-wishlist:    22OPQKG5MCCAH
 amazon-store-tld:   in
 gravatar:           e4a66264af2731abb223100c0b7dd481
+mastodon:           ramiyer
+mastodon-server:    mastodon.online
 
 # Gems
 plugins:
